@@ -1,7 +1,7 @@
 
 the PCB is used to provide circuit connection, debuging and addressing function  
 design of PCB is done by [KiCAD](https://kicad.org/)  
-[**ALL** project files for KiCAD](LoRa-Localisation-System/HardwareComponents/CustomPCB/Lora2020_21.zip)  
+[**ALL** project files for KiCAD](Lora2020_21.zip)  
 [schematic file](Lora2020_21.sch)  
 ![sch](https://github.com/PequodMD/Upload/blob/278032360a0b57289a7eeacce4fd8d3fa8e4177a/images/imagesForLoRaLocalisationSystem/sch.png)  
 [circuit layout file](Lora2020_21.kicad_pcb)  
