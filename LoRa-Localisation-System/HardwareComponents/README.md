@@ -1,2 +1,2 @@
 List of Hardware:
-1. a custom PCB ([click me for detail](My-works/LoRa-Localisation-System/HardwareComponents))
+1. a custom PCB ([detail](LoRa-Localisation-System/HardwareComponents/CustomPCB/README.md))
