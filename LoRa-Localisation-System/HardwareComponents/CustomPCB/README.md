@@ -8,7 +8,9 @@ design of PCB is done by [KiCAD](https://kicad.org/)
 ![layout](https://github.com/PequodMD/Upload/blob/278032360a0b57289a7eeacce4fd8d3fa8e4177a/images/imagesForLoRaLocalisationSystem/layout.png)  
 [gerber and drill files](Lora2020_21-gerbers3.zip)  
 ![gerber](https://github.com/PequodMD/Upload/blob/278032360a0b57289a7eeacce4fd8d3fa8e4177a/images/imagesForLoRaLocalisationSystem/gerber.png)  
-[Video for learning how to use KiCAD](https://www.youtube.com/watch?v=vaCVh2SAZY4)
+[Video for learning how to use KiCAD](https://www.youtube.com/watch?v=vaCVh2SAZY4)  
+appearance of the device 
+![board](https://github.com/PequodMD/Upload/blob/89a961c7ec6871831e518f6c5afcf2171c23f78a/images/imagesForLoRaLocalisationSystem/loraDevice.jpeg)
 ___
 components on top:  
  + 2 LEDs and resistors(for debuging)
