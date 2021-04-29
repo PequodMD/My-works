@@ -1,6 +1,8 @@
 the programming is mainly done in two part:
 1. microcontroller progarmming
-2. Java progarmming
+2. Java progarmming  
+screenshot of the Java App(sorry no GUI)  
+![appScreenShot](https://github.com/PequodMD/Upload/blob/89a961c7ec6871831e518f6c5afcf2171c23f78a/images/imagesForLoRaLocalisationSystem/JavaApp.png)
 ___
 burn the program to the microcontroller, master for one LoRa device , slave for all other LoRa devices  
 connect the master node to the PC that u are using, the java program is not necessary and u can use any serial port communication tool(e.g. Tera Term) to enter command, but u have to do all calculation yourself🌚  
