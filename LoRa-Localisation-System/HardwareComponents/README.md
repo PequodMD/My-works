@@ -5,3 +5,6 @@ List of Hardware:
 4. antenna + adaptor to ufl female connector [detail](antenna&adaptor-to-ufl-female-connector)
 5. power supply [detail](powerSupply)
 6. sth that can suspend the antenna at least 0.5m above the ground [detail](antenna-stand)
+___
+appearance of the device  
+![device](https://github.com/PequodMD/Upload/blob/89a961c7ec6871831e518f6c5afcf2171c23f78a/images/imagesForLoRaLocalisationSystem/loraDevice.jpeg)
